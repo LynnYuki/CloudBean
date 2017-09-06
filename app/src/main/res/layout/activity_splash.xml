@@ -8,17 +8,17 @@
         android:layout_height="match_parent"
         tools:context="com.example.lynnyuki.cloudbean.SplashActivity">
 
-        <com.youth.banner.Banner
-            android:id="@id/banner_splash"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            app:iamge_sacle_type="fix_xy"
-            app:indicator_drawable_selected="@drawable/banner_red"
-            app:indicator_drawable_unselected="@drawable/banner_grey"
-            app:indicator_height="9dp"
-            app:indicator_margin="3dp"
-            app:indicator_width="9dp"
-            app:is_auto_play="false" />
+        <!--<com.youth.banner.Banner-->
+            <!--&lt;!&ndash;android:id="@id/banner_splash"&ndash;&gt;-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--app:iamge_sacle_type="fix_xy"-->
+            <!--app:indicator_drawable_selected="@drawable/banner_red"-->
+            <!--app:indicator_drawable_unselected="@drawable/banner_grey"-->
+            <!--app:indicator_height="9dp"-->
+            <!--app:indicator_margin="3dp"-->
+            <!--app:indicator_width="9dp"-->
+            <!--app:is_auto_play="false" />-->
 
 
 
